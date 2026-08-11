@@ -67,12 +67,7 @@ I'm a **Full-Stack Developer** specializing in the **MERN stack** and **TypeScri
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=dev-mskhan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=dev-mskhan&layout=compact&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=dev-mskhan&theme=dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-mskhan&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
